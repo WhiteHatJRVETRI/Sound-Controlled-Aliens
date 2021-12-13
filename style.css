@@ -1,0 +1,19 @@
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: inherit;
+    background-color: white;
+}
+body{
+    background-image:linear-gradient(rgb(0, 255, 221),rgb(0, 204, 255)) ;
+}
+.copyrightfooter{
+        color: #6c757d;
+        font-size: 18px;
+        text-align: center;
+        width: 100%;
+        position: fixed;
+        bottom: 0px;
+        background-color: #f5f5f5;
+        line-height: 3;
+        text-shadow: 5px 5px 5px rgb(151,149,149);
+}
